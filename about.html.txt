@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Classic Reads</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>Classic Reads started as a small independent bookstore specializing in rare and vintage books. Now, we have transitioned online to serve book lovers worldwide.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Classic Reads. All rights reserved.</p>
+    </footer>
+</body>
+</html>

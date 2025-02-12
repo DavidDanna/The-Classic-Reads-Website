@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Reads - Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shop Books</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Available Books</h2>
+        <div class="book">
+            <h3>Pride and Prejudice</h3>
+            <p>By Jane Austen - A classic novel of manners and love.</p>
+            <button>Buy Now</button>
+        </div>
+        <div class="book">
+            <h3>Moby Dick</h3>
+            <p>By Herman Melville - An epic tale of a man's obsession with a whale.</p>
+            <button>Buy Now</button>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Classic Reads. All rights reserved.</p>
+    </footer>
+</body>
+</html>
